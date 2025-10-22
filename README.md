@@ -15,7 +15,7 @@ However, **in order to migrate existing databases**, both extensions (`pgvecto.r
 ## 🧪 What's inside
 
 - 🐘 Base: `ghcr.io/tensorchord/cloudnative-vectorchord:16-0.3.0`
-- ➕ Adds `pgvecto.rs v0.2.0` (as a `.deb` package)
+- ➕ Adds `pgvecto.rs v0.3.0` (as a `.deb` package)
 - ✅ Compatible with `cloudnative-pg`
 - ✅ Tested with Immich v1.133.0+
 
