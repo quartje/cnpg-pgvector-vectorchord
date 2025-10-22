@@ -3,6 +3,8 @@ name: Build and publish Docker image to GHCR
 on:
   push:
     branches: [ main ]
+    tags: 
+      - "*"
   workflow_dispatch:
 
 env:
