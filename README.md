@@ -27,7 +27,7 @@ However, **in order to migrate existing databases**, both extensions (`pgvecto.r
 spec:
   image:
     name: ghcr.io/corentingiraud/cnpg-pgvector-vectorchord
-    tag: 16-migration
+    tag: 1.0.2
 ```
 
 ---
